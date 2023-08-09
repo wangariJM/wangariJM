@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/7efZ7nK1aqpkLOuLf9/giphy.gif?cid=ecf05e47gmkywbrojb65ebhzt78uzomt51nyk4m6lo0zd0o9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
+ 
  Health data scientist and Analyst 
 
 ## SKILLS
