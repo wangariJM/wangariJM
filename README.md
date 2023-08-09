@@ -14,6 +14,12 @@ I am a health data scientist passionate about sexual reproductive health and mat
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  ![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+### PACKAGES
+![Tidyverse](https://img.shields.io/badge/Tidyverse-5B9BD5?style=for-the-badge&logo=tidyverse&logoColor=white
+![SF](https://img.shields.io/badge/Tidyverse-5B9BD5?style=for-the-badge&logo=tidyverse&logoColor=white)
+
+### CONNECT WITH ME
+
 
 
 **wangariJM/wangariJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
