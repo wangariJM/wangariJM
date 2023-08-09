@@ -9,7 +9,7 @@ I am a health data scientist passionate about sexual reproductive health and mat
 ### Languages
  [R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=Blue)
  
-###OS 
+### OS 
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
