@@ -20,7 +20,7 @@ I am a health data scientist passionate about sexual reproductive health and mat
 
 ### CONNECT WITH ME
 <div id="badges">
-  <a href=https://www.linkedin.com/in/ryan-musasia/)>
+  <a href=https://www.linkedin.com/in/Wangari-Mutuku/)>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 
