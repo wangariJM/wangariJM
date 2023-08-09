@@ -16,10 +16,12 @@ I am a health data scientist passionate about sexual reproductive health and mat
 
 ### PACKAGES
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-5B9BD5?style=for-the-badge&logo=tidyverse&logoColor=white
-![SF](https://img.shields.io/badge/Tidyverse-5B9BD5?style=for-the-badge&logo=tidyverse&logoColor=white)
+
 
 ### CONNECT WITH ME
-
+<div id="badges">
+  <a href=https://www.linkedin.com/in/ryan-musasia/)>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 
 **wangariJM/wangariJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
